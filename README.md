@@ -1,4 +1,5 @@
 # prime-number-generator-ru
 Этот гениратор узнаёт числа за счёт решета Эратосфена <br>
 Запуск:
->_***python2 гениратор.py***_
+```markdown
+python2 гениратор.py
